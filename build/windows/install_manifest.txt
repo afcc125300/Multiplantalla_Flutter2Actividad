@@ -1,0 +1,12 @@
+C:/Users/afcor/Desktop/flutter_windows_3.7.11-stable/flutterlogin-main/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/afcor/Desktop/flutter_windows_3.7.11-stable/flutterlogin-main/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/afcor/Desktop/flutter_windows_3.7.11-stable/flutterlogin-main/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/afcor/Desktop/flutter_windows_3.7.11-stable/flutterlogin-main/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/afcor/Desktop/flutter_windows_3.7.11-stable/flutterlogin-main/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/afcor/Desktop/flutter_windows_3.7.11-stable/flutterlogin-main/build/windows/runner/Debug/data/flutter_assets/fonts/Orbitron-VariableFont_wght.ttf
+C:/Users/afcor/Desktop/flutter_windows_3.7.11-stable/flutterlogin-main/build/windows/runner/Debug/data/flutter_assets/images/LOGO.png
+C:/Users/afcor/Desktop/flutter_windows_3.7.11-stable/flutterlogin-main/build/windows/runner/Debug/data/flutter_assets/images/user.png
+C:/Users/afcor/Desktop/flutter_windows_3.7.11-stable/flutterlogin-main/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/afcor/Desktop/flutter_windows_3.7.11-stable/flutterlogin-main/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/afcor/Desktop/flutter_windows_3.7.11-stable/flutterlogin-main/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/afcor/Desktop/flutter_windows_3.7.11-stable/flutterlogin-main/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
